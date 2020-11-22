@@ -1,0 +1,9 @@
+C:\Users\abraham\Documents\LECTORDEVOZ\speech\speech\bin\Debug\speech.exe.config
+C:\Users\abraham\Documents\LECTORDEVOZ\speech\speech\bin\Debug\speech.exe
+C:\Users\abraham\Documents\LECTORDEVOZ\speech\speech\bin\Debug\speech.pdb
+C:\Users\abraham\Documents\LECTORDEVOZ\speech\speech\obj\Debug\speech.csprojAssemblyReference.cache
+C:\Users\abraham\Documents\LECTORDEVOZ\speech\speech\obj\Debug\speech.Form1.resources
+C:\Users\abraham\Documents\LECTORDEVOZ\speech\speech\obj\Debug\speech.Properties.Resources.resources
+C:\Users\abraham\Documents\LECTORDEVOZ\speech\speech\obj\Debug\speech.csproj.GenerateResource.cache
+C:\Users\abraham\Documents\LECTORDEVOZ\speech\speech\obj\Debug\speech.exe
+C:\Users\abraham\Documents\LECTORDEVOZ\speech\speech\obj\Debug\speech.pdb
